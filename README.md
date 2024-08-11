@@ -1,3 +1,12 @@
+Background:\
+This simulation was my final project for MCEN 4231/5231 Computaional Fluid Dynamics in Spring 2024. It was a simulation to study the von Karman vortex shedding effect in different situations / geometries. 
+
+How to run:\
+The root of this directory contains the very last render, the two-way von Karman with fins (two outlet). The rest of the renders are contained in the AllRenders directory with their corresponding geo, msh, and python file that is already setup.\
+You will need to have your environment setup with FEniCS/DOLFINx to run the simulation. However, the gifs are visible below as a reference. Feel free to email me at trhu2740@colorado.edu for the high definition videos or for more information.
+
+Acknowledgements:\
+Professor Debanjan Mukherjee at the University of Colorado Boulder. 
 
 One-way von Karman (one outlet):\
 ![1In1Out](https://github.com/user-attachments/assets/207581da-abc4-4c06-9b86-0d56c7968915)
